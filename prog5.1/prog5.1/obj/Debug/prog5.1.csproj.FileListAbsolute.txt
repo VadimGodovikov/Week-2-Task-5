@@ -1,0 +1,7 @@
+C:\Учебная практика\Неделя 2 Задание 5\prog5.1\prog5.1\bin\Debug\prog5.1.exe.config
+C:\Учебная практика\Неделя 2 Задание 5\prog5.1\prog5.1\bin\Debug\prog5.1.exe
+C:\Учебная практика\Неделя 2 Задание 5\prog5.1\prog5.1\bin\Debug\prog5.1.pdb
+C:\Учебная практика\Неделя 2 Задание 5\prog5.1\prog5.1\obj\Debug\prog5.1.csprojAssemblyReference.cache
+C:\Учебная практика\Неделя 2 Задание 5\prog5.1\prog5.1\obj\Debug\prog5.1.csproj.CoreCompileInputs.cache
+C:\Учебная практика\Неделя 2 Задание 5\prog5.1\prog5.1\obj\Debug\prog5.1.exe
+C:\Учебная практика\Неделя 2 Задание 5\prog5.1\prog5.1\obj\Debug\prog5.1.pdb
